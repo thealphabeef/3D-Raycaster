@@ -2,7 +2,7 @@
 
 A **from-scratch 3D raycasting engine** built in Python that renders a pseudo-3D environment from a 2D grid map, inspired by early FPS engines like *Wolfenstein 3D* or *DOOM*. This project focuses on **computer graphics fundamentals** and **linear algebra**.
 
-![hippo](https://media.giphy.com/media/GPFVjRNg3Mup7qSdnV/giphy.gif)
+![hippo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdxZ2IyMHd2YXE5bTEwNXdoaWkzYndzYnplMDEzbmlrZjJ4czZjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GPFVjRNg3Mup7qSdnV/giphy.gif)
 
 ---
 
